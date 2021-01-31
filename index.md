@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## QR Tool
 
-You can use the [editor on GitHub](https://github.com/trinhcanhphuc/trinhcanhphuc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center" width="100%">
+  <img width="80%" src="images/qr_tool_cover.png"> 
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Free Online QR Code Generator to make your own QR Codes. Supports Dynamic Codes, Tracking, Analytics, Free text, vCards and more.
 
-### Markdown
+Typing data and get QR Code Image
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center" width="100%">
+  <img width="80%" src="images/qr_tool_generate.png"> 
+</p>
 
-```markdown
-Syntax highlighted code block
+Backup your QR Codes history
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center" width="100%">
+  <img width="80%" src="images/qr_tool_history.jpg"> 
+</p>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trinhcanhphuc/trinhcanhphuc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [QR Tool](https://www.qrtool.tk).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out my [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and I’ll help you sort it out.
