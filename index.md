@@ -1,24 +1,20 @@
 # My Projects
+---
+---
 
 ## QR Tool
 
-<p align="center" width="100%">
-  <img width="80%" src="images/qr_tool_cover.png"> 
-</p>
+![QR Tool Cover](images/qr_tool_cover.png)
 
 Free Online QR Code Generator to make your own QR Codes. Supports Dynamic Codes, Tracking, Analytics, Free text, vCards and more.
 
 Typing data and get QR Code Image
 
-<p align="center" width="100%">
-  <img width="80%" src="images/qr_tool_generate.png"> 
-</p>
+![QR Tool Generate](images/qr_tool_generate.png)
 
 Backup your QR Codes history
 
-<p align="center" width="100%">
-  <img width="80%" src="images/qr_tool_history.jpg"> 
-</p>
+![QR Tool History](images/qr_tool_history.jpg)
 
 For more details see [QR Tool](https://www.qrtool.tk).
 
