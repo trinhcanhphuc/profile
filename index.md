@@ -4,17 +4,23 @@
 
 ## QR Tool
 
-![QR Tool Cover](images/qr_tool_cover.png)
+<p align="center" width="100%">
+  <img src="images/qr_tool_cover.png" style="border-radius: 16px"> 
+</p>
 
 Free Online QR Code Generator to make your own QR Codes. Supports Dynamic Codes, Tracking, Analytics, Free text, vCards and more.
 
 Typing data and get QR Code Image
 
-![QR Tool Generate](images/qr_tool_generate.png)
+<p align="center" width="100%">
+  <img src="images/qr_tool_generate.png" style="border-radius: 16px"> 
+</p>
 
 Backup your QR Codes history
 
-![QR Tool History](images/qr_tool_history.jpg)
+<p align="center" width="100vw">
+  <img src="images/qr_tool_history.jpg" style="border-radius: 16px"> 
+</p>
 
 For more details see [QR Tool](https://www.qrtool.tk).
 
