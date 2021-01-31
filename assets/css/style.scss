@@ -1,0 +1,5 @@
+@import "{{ site.theme }}";
+
+.wrapper > header:nth-child(1) > img:nth-child(2) {
+  border-radius: 50%;
+}
